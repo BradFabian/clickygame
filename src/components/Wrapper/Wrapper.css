@@ -1,6 +1,9 @@
 .wrapper {
     background: rgb(175, 175, 175);
-    background-image: url('https://images7.alphacoders.com/400/thumb-1920-400623.jpg');
+    background-image: url('http://s1.bwallpapers.com/thumbs2/2014/03/06/the-simpsons-free-backgrounds_103841965.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
