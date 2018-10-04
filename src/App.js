@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
-import Nav from "./components/Nav";
+import Nav from "./components/NavBar";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Container from "./Container";
