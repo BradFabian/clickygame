@@ -77,8 +77,7 @@ class App extends Component {
         />
 
         <Title>
-          Try to click on each character, but don't hit any duplicates, or
-          we'll release the hounds!!!
+          Try to click on each character, but don't hit any duplicates!
         </Title>
 
         <Container>
